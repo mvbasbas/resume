@@ -61,7 +61,7 @@ class Skills extends React.Component{
                                         <li>Time Management</li>
                                     </div>
                                         <li>Resourcefulness</li>
-                                        <li>Meticulous</li>
+                                        <li>Meticulousness</li>
                                 
                                 </ul>
                             </div>
