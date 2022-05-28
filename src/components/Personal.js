@@ -13,8 +13,7 @@ class Personal extends React.Component{
 
                         <div className = "About-text">
 
-                            A Bachelor of Science in Information Technology specializing in Web and Mobile Application Development graduate,
-                            inclined in UI/UX design and Graphic Design, seeking to develop and enhance the appropriate skills and knowledge for UI/UX Design.
+                        A graduate of Bachelor of Science in Information Technology, specialized in Web and Mobile Application Development with 6 months of professional experience as a UI/UX Designer. 
                         </div>
                         
 
