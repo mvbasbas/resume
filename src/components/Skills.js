@@ -18,16 +18,11 @@ class Skills extends React.Component{
                                 <ul className ="sub-list">
                                     <div className = "skill1-container">
                                         <li>HTML/CSS</li>
-                                        <li>Javascript</li>
                                     </div>
                                     <div className = "skill1-container">
-                                        <li>Bootstrap</li>
-                                        <li>React JS</li>
+                                        <li>Javascript</li>
                                     </div>
-                                    <div className = "skill-container">
-                                        <li>Java</li>
-                                        <li>PHP</li>
-                                    </div>
+                                    <li>React JS</li>
                                 </ul>
 
                             <div className = "tools-container">
@@ -41,7 +36,7 @@ class Skills extends React.Component{
                                     <li>Adobe Photoshop</li>
                                     <li>Visual Studio Code</li>
                                 </div>
-                                    <li>Android Studio</li>
+                                    <li>Jira</li>
                                     <li>Github</li>
                                 </ul>
                             </div>
