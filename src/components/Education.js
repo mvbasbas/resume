@@ -17,8 +17,8 @@ class Education extends React.Component{
                                 <div className ="date">August 2018 - May 2022</div>
 
                                 <ul className ="sub-list">
-                                    <li>Dean's List (August 2018 - May 2022)</li>
-                                    <li>Latin Honors: Runnning for Magna Cum Laude (June 2022)</li>
+                                    <li>Dean's List for 7 terms (August 2018 - May 2022)</li>
+                                    <li>Latin Honors: Magna Cum Laude (June 2022)</li>
                                 </ul>
                             </div>
                             <ul className = "bullet">

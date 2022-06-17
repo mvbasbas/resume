@@ -1,6 +1,7 @@
 import React from "react";
 import Img from '../images/me5.svg';
 import Cp from '../images/telephone.svg';
+import Linkedin from '../images/linkedin.png';
 import Email from '../images/email.svg';
 import Home from '../images/home.svg';
 import Pfolio from '../images/portfolio.svg';
@@ -17,7 +18,13 @@ class About extends React.Component{
                         <br/>
                     
                         <img className = "icon" src= {Cp} /> 
-                        <div className ="text">09294087259</div>
+                        <div className ="text">(+63) 9294087259 | 
+                        <img className = "icon2" src= {Linkedin} /> 
+                        /mhargarette-basbas
+
+                        
+                        </div>
+                        
 
                         <br/>
                         <img className = "icon" src= {Email}/>
