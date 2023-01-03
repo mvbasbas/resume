@@ -32,7 +32,7 @@ class About extends React.Component{
                     
                         <br/>
                         <img className = "icon" src= {Home}/>
-                        <div className ="text">21-B Florpina St. Roxas, Quezon City</div>
+                        <div className ="text">31-B Alley 2 Batino St., Project 3, Quezon City</div>
 
                         <br/>
                         <img className = "icon" src= {Pfolio}/>
