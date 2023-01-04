@@ -7,41 +7,31 @@ class Projects extends React.Component{
             <div>
                 <div className = "container">
                     <hr className = "vertical"/>
-                        <h3>ACADEMIC PROJECTS</h3>
+                        <h3>PROJECTS</h3>
                         <div className = "section">
                             <ul className = "bullet">
-                                <li>PharmFinder: Pharmacy Locator</li>
+                                <li>Udenna Land Company System (Full-time)</li>
                             </ul>
                             <div className = "li-container">
-                                <div className = "sub-text">UI/UX Designer &#38; Documentations Manager</div>
-                                <div className ="date">June 2021 - December 2021</div>
+                                <div className = "sub-text">UI/UX Designer</div>
+                                <div className ="date">November 2022 - December 2022</div>
                                 <ul className ="sub-list">
-                                    <li>Collaborated with the team in creating the UI design of the application.</li>
+                                    <li>Created the wireframe of the system based from the client’s requirements.</li>
+                                    <li>Created the UI Design of the Applicant side and the Company side of the system.</li>
                                     <li>Created the prototype of the application.</li>
-                                    <li>Accomplished the paper deliverables</li>
                                 </ul>
                             </div>
                             <ul className = "bullet">
-                                <li>Web-based Inventory and Ordering System For Blaze Athletics </li>
+                                <li>OneCFO Website UI Design (Freelance/Part-time)</li>
                             </ul>
                             <div className = "li-container">
-                                <div className = "sub-text">System Analyst</div>
-                                <div className ="date">August 2020 - May 2021</div>
+                                <div className = "sub-text">UI/UX Designer & Graphic Designer</div>
+                                <div className ="date">November 2022 - December 2022</div>
                                 <ul className ="sub-list">
-                                    <li>Defined system requirements by identifying the problems of the business.</li>
+                                    <li>Designed OneCFO’s Website and created the illustrations and vectors using Figma.</li>
                                 </ul>
                             </div>
-                            <ul className = "bullet">
-                                <li>Kiddy Quiz </li>
-                            </ul>
-                            <div className = "li-container">
-                                <div className = "sub-text">Front-End Developer &#38; UI/UX Designer</div>
-                                <div className ="date">August 2020 - December 2020</div>
-                                <ul className ="sub-list">
-                                    <li>Coded the front-end design of the application.</li>
-                                    <li>Designed the User Interface of the application.</li>
-                                </ul>
-                            </div>
+                        
                         </div>
                         
                 </div>

@@ -13,17 +13,6 @@ class Skills extends React.Component{
                                 <li>Technical Skills</li>
                             </ul>
                         
-                            <div className = "sub-text">Programming Languages/Libraries</div>
-                        
-                                <ul className ="sub-list">
-                                    <div className = "skill1-container">
-                                        <li>HTML/CSS</li>
-                                    </div>
-                                    <div className = "skill1-container">
-                                        <li>Javascript</li>
-                                    </div>
-                                    <li>React JS</li>
-                                </ul>
 
                             <div className = "tools-container">
                                 <div className = "sub-text">Tools and Technologies</div>
@@ -34,32 +23,19 @@ class Skills extends React.Component{
                                 </div>
                                 <div className = "skill1-container">
                                     <li>Adobe Photoshop</li>
-                                    <li>Visual Studio Code</li>
+                                    <li>Adobe Illustrator</li>
+                                </div>
+                                <div className = "skill1-container">
+                                    <li>Canva</li>
+                                    <li>Github</li>
                                 </div>
                                     <li>Jira</li>
-                                    <li>Github</li>
-                                </ul>
-                            </div>
-
-                            <div className = "soft-container">
-                                <ul className = "bullet">
-                                    <li>Soft Skills</li>
-                                </ul>
-
-                                <ul className ="sub-list">
-                                    <div className = "skill1-container">
-                                        <li>Communication</li>
-                                        <li>Teamwork</li>
-                                    </div>
-                                    <div className = "skill1-container">
-                                        <li>Creativity</li>
-                                        <li>Time Management</li>
-                                    </div>
-                                        <li>Resourcefulness</li>
-                                        <li>Detail-oriented</li>
+                                    <li>Microsoft Powerpoint</li>
                                 
                                 </ul>
                             </div>
+
+                            
                         </div>
                 
                 </div>
