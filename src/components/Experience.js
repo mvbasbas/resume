@@ -14,9 +14,9 @@ class Experience extends React.Component{
                             </ul>
                             <div className = "li-container">
                                 <div className = "sub-text">Junior UI/UX Designer</div>
-                                <div className ="date">July 2022 - Present</div>
+                                <div className ="date">July 2022 - Feb 2023</div>
                                 <ul className ="sub-list">
-                                    <li>Working with the Product Development team in accomplishing UI/UX tasks using Figma.</li>
+                                    <li>Worked with the Product Development team in accomplishing UI/UX tasks using Figma.</li>
                                     <li>Worked with the Digital Marketing team in creating Graphic Design tasks such as publication materials and illustrations using Figma, Canva and Adobe Photoshop.</li>
                                 </ul>
                             </div>
@@ -34,8 +34,8 @@ class Experience extends React.Component{
                                 <li>OneCFO</li>
                             </ul>
                             <div className = "li-container">
-                                <div className = "sub-text">UI/UX Consultant (Part-time)</div>
-                                <div className ="date">November 2022 - Present</div>
+                                <div className = "sub-text">UI/UX Designer</div>
+                                <div className ="date">Feb 2023 - Present</div>
                                 <ul className ="sub-list">
                                     <li>Working with the Development team in accomplishing UI/UX tasks using Figma.</li>
                                     <li>Working with the Digital Marketing team in creating Graphic Design tasks such as Publication Materials, Presentations, and Illustrations using Figma, Adobe Photoshop and Powerpoint Presentation.</li>

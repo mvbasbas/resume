@@ -13,7 +13,7 @@ class Personal extends React.Component{
 
                         <div className = "About-text">
 
-                        I am a UI/UX Designer with 1 year of professional experience as a UI/UX Designer and Graphic Designer.
+                        I am a UI/UX Designer with 2 years of professional experience as a UI/UX Designer and Graphic Designer.
                         </div>
                         
 
