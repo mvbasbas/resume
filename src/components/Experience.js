@@ -9,6 +9,19 @@ class Experience extends React.Component{
                     <hr className = "vertical"/>
                         <h3>EXPERIENCE</h3>
                         <div className = "section">
+                
+                            <ul className = "bullet">
+                                <li>OneCFO</li>
+                            </ul>
+                            <div className = "li-container">
+                                <div className = "sub-text">UI/UX Designer</div>
+                                <div className ="date">Feb 2023 - Present</div>
+                                <ul className ="sub-list">
+                                    <li>Working with the Development team in accomplishing UI/UX tasks using Figma.</li>
+                                    <li>Working with the Digital Marketing team in creating Graphic Design tasks such as Publication Materials, Presentations, and Illustrations using Figma, Adobe Photoshop and Powerpoint Presentation.</li>
+                                </ul>
+
+
                             <ul className = "bullet">
                                 <li>Edufied</li>
                             </ul>
@@ -29,17 +42,6 @@ class Experience extends React.Component{
                                     <li>Worked with the Digital Marketing team in creating Graphic Design tasks such as Publication materials and Illustrations.</li>
                                 </ul>
                             </div>
-
-                            <ul className = "bullet">
-                                <li>OneCFO</li>
-                            </ul>
-                            <div className = "li-container">
-                                <div className = "sub-text">UI/UX Designer</div>
-                                <div className ="date">Feb 2023 - Present</div>
-                                <ul className ="sub-list">
-                                    <li>Working with the Development team in accomplishing UI/UX tasks using Figma.</li>
-                                    <li>Working with the Digital Marketing team in creating Graphic Design tasks such as Publication Materials, Presentations, and Illustrations using Figma, Adobe Photoshop and Powerpoint Presentation.</li>
-                                </ul>
                             </div>
 
                         </div>
