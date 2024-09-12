@@ -1,5 +1,5 @@
 import React from "react";
-import Img from '../images/me5.svg';
+import Img from '../images/me.jpg';
 import Cp from '../images/telephone.svg';
 import Linkedin from '../images/linkedin.png';
 import Email from '../images/email.svg';
