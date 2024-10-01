@@ -19,7 +19,6 @@ class App extends React.Component{
                 <Experience/>
                 <Education/>
                 <Skills/>
-                <Projects/>
                 <Achievements/>
             </div>
         );
