@@ -19,14 +19,14 @@ class Skills extends React.Component{
                                 <ul className ="sub-list">
                                 <div className = "skill1-container">
                                     <li>Figma</li>
-                                    <li>Adobe XD</li>
+                                    <li>Canva</li>
                                 </div>
                                 <div className = "skill1-container">
                                     <li>Adobe Photoshop</li>
                                     <li>Adobe Illustrator</li>
                                 </div>
                                 <div className = "skill1-container">
-                                    <li>Canva</li>
+                                    <li>Capcut</li>
                                     <li>Github</li>
                                 </div>
                                     <li>Jira</li>
