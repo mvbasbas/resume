@@ -14,11 +14,21 @@ class Experience extends React.Component{
                                 <li>OneCFO</li>
                             </ul>
                             <div className = "li-container">
-                                <div className = "sub-text">UI/UX Designer</div>
-                                <div className ="date">Feb 2023 - Present</div>
+                                <div className = "sub-text">Senior UI/UX Designer</div>
+                                <div className ="date">May 2025 - Present</div>
                                 <ul className ="sub-list">
-                                    <li>Working with the Development team in accomplishing UI/UX tasks using Figma.</li>
-                                    <li>Working with the Digital Marketing team in creating Graphic Design tasks such as Publication Materials, Presentations, and Illustrations using Figma, Adobe Photoshop and Powerpoint Presentation.</li>
+                                    <li>Promoted from UI/UX Designer to Senior UI/UX Designer, leading UI/UX design for web application, collaborating with cross-functional teams, and supporting branding and marketing design using Figma and other design tools.</li>
+                                
+                                </ul>
+
+                                <div className = "sub-text">UI/UX Designer</div>
+                                <div className ="date">Feb 2023 - April 2025</div>
+                                <ul className ="sub-list">
+                                    <li>Worked with the development team to design and deliver UI/UX solutions using Figma.</li>
+                                    <li>Translated requirements into user-friendly interfaces for web and mobile applications.</li>
+                                    <li>Collaborated with the digital marketing team to create branding and graphic design assets such as publication materials, presentations, and illustrations.</li>
+                                    <li>Designed visual content using Figma, Canva, and PowerPoint.</li>
+                                    <li>Maintained consistency across digital and marketing design outputs.</li>
                                 </ul>
 
 
