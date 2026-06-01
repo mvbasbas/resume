@@ -37,7 +37,7 @@ class About extends React.Component{
                         <br/>
                         <img className = "icon" src= {Pfolio}/>
                         <div className ="text">
-                        Portfolio | <a href = "https://mhargarette-basbas.webflow.io"> https://mhargarette-basbas.webflow.io</a>
+                        <a href = "https://mhargevb.framer.website"> My Portfolio</a>
                         </div>
                     </div>
                 
